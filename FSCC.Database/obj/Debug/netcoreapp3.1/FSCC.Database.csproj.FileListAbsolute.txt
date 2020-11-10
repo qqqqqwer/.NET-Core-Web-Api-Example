@@ -1,0 +1,15 @@
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netcoreapp3.1\FSCC.Database.deps.json
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netcoreapp3.1\FSCC.Database.runtimeconfig.json
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netcoreapp3.1\FSCC.Database.runtimeconfig.dev.json
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netcoreapp3.1\FSCC.Database.dll
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netcoreapp3.1\FSCC.Database.pdb
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netcoreapp3.1\FSCC.Models.dll
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netcoreapp3.1\FSCC.Models.pdb
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netcoreapp3.1\FSCC.Database.csprojAssemblyReference.cache
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netcoreapp3.1\FSCC.Database.AssemblyInfoInputs.cache
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netcoreapp3.1\FSCC.Database.AssemblyInfo.cs
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netcoreapp3.1\FSCC.Database.csproj.CoreCompileInputs.cache
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netcoreapp3.1\FSCC.Database.csproj.CopyComplete
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netcoreapp3.1\FSCC.Database.dll
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netcoreapp3.1\FSCC.Database.pdb
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netcoreapp3.1\FSCC.Database.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netstandard2.0\FSCC.Database.deps.json
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netstandard2.0\FSCC.Database.dll
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netstandard2.0\FSCC.Database.AssemblyInfoInputs.cache
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netstandard2.0\FSCC.Database.AssemblyInfo.cs
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netstandard2.0\FSCC.Models.dll
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netstandard2.0\FSCC.Models.pdb
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netstandard2.0\FSCC.Database.csprojAssemblyReference.cache
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netstandard2.0\FSCC.Database.csproj.CopyComplete
+E:\Projects\FSCC\FSCC.Database\bin\Debug\netstandard2.0\FSCC.Database.pdb
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netstandard2.0\FSCC.Database.csproj.CoreCompileInputs.cache
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netstandard2.0\FSCC.Database.dll
+E:\Projects\FSCC\FSCC.Database\obj\Debug\netstandard2.0\FSCC.Database.pdb
