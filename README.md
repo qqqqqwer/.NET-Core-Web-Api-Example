@@ -38,3 +38,5 @@ There are 3 available endpoints:
 ![items_get](./items_post_bad.png)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![items_get](./items_post_good.png)&nbsp;&nbsp;&nbsp;&nbsp;
+
+![items_get](./reviews_post_good.png)&nbsp;&nbsp;&nbsp;&nbsp;
