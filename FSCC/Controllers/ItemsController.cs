@@ -11,6 +11,7 @@ namespace FSCC.Controllers
         private readonly IItemService _itemService;
         private readonly IReviewService _reviewService;
         private readonly IRequestInfoService _requestInfoService;
+
         public ItemsController(IItemService itemService, IReviewService reviewService, IRequestInfoService requestInfoService)
         {
             _requestInfoService = requestInfoService;

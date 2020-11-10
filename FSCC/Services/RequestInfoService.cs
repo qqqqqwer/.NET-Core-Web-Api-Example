@@ -11,11 +11,17 @@ namespace FSCC.Services
 {
     public class RequestInfoService : IRequestInfoService
     {
-        IRequestInfoRepository requestInfoRepository;
+        private readonly IRequestInfoRepository _requestInfoRepository;
+
+        public RequestInfoService(IRequestInfoRepository requestInfoRepository)
+        {
+            _requestInfoRepository = requestInfoRepository;
+        }
 
         public async Task RegisterInformation(string method, string endpoint)
         {
-            await requestInfoRepository.AddAsync(new RequestInfo() { HttpMethodUsed = method, EndPointUsed = endpoint } );
+            var request = new RequestInfo() { HttpMethodUsed = method, EndPointUsed = endpoint };
+            await _requestInfoRepository.AddAsync(request);
         }
     }
 }
